@@ -1,0 +1,781 @@
+3rd Floor:
+
+301:
+
+Living room east wall: 95x84
+
+Laundry+closet: 65x96
+
+
+
+302:
+
+Front closet: 48x95
+
+
+
+303:
+
+Behind fridge: 33x96
+
+Left of heat pump: 54x95
+
+
+
+304:
+
+Living room north wall: 132x95
+
+Master bedroom: 160x95
+
+Small bedroom: 40x108
+
+
+
+306:
+
+Behind fridge: 35x95
+
+South bedroom: 124x95
+
+East bedroom: 107x107
+
+
+
+307:
+
+Behind fridge: 28.5x96
+
+Living room east wall: 106x94
+
+
+
+308:
+
+Behind fridge: 28x96
+
+Living room east wall: 123x94
+
+Master bedroom west wall: 115x94
+
+
+
+309:
+
+Master bedroom east wall: 130x94
+
+
+
+313:
+
+Behind fridge: 35x96
+
+Living room east wall: 157x94
+
+
+
+314:
+
+Master bedroom east wall: 120x94
+
+Living room south wall: 115x95
+
+
+
+316:
+
+Small bedroom: 103x96
+
+Living room east wall: 159x94
+
+
+
+317:
+
+Living room east wall: 109x94
+
+Front closet: 44x96
+
+
+
+318:
+
+Front closet: 45x93
+
+Laundry: 36x91
+
+Living room east wall: 140x95
+
+Small bedroom north wall *(verify drywall or plaster): 91x94
+
+
+
+319:
+
+Front closet: 46x96
+
+Laundry: 38x91
+
+Master bedroom east wall: 137x94.5
+
+Behind fridge: 38x96
+
+Small bedroom north wall *(verify drywall or plaster): 95x94
+
+
+
+320:
+
+East entry wall: 182x95
+
+South kitchen wall: 38x95
+
+Master bedroom east wall: 140x95
+
+
+
+321:
+
+Small bedroom south wall: 128x108
+
+Behind fridge: 28.5x96
+
+Living room south wall: 128x94.5
+
+Master bedroom north wall: 92x95
+
+Master closet: 57x95
+
+
+
+322:
+
+Small bedroom north wall: 128x96
+
+Behind fridge: 28.5x96
+
+Living room north wall: 128x94
+
+Master bedroom south wall: 93x94
+
+Master closet: 56x96
+
+
+
+323:
+
+Front closet: 59x95
+
+East bedroom east wall: 117x95
+
+Behind fridge: 33.5x96
+
+West bedroom south wall: 99x95
+
+Bathroom closet: 28.5x95
+
+
+
+324:
+
+Master bedroom east wall: 110x94
+
+
+
+325:
+
+Laundry+closet: 80x95
+
+Master bedroom east wall: 116x94
+
+
+
+326:
+
+Master bedroom east wall: 108x94
+
+
+
+327:
+
+Master bedroom east wall: 107x94
+
+
+
+328:
+
+Master bedroom east wall: 117x94.5
+
+Front closet: 43x95
+
+Laundry: 32x92
+
+
+
+329:
+
+Front closet: 49x91
+
+Master bedroom east wall: 141x96
+
+
+
+
+
+4th Floor:
+
+401:
+
+Living room east wall: 90x95
+
+Front closet: 41x95
+
+
+
+402:
+
+Front closet: 45x91
+
+Living room east wall: 118x95
+
+Living room west wall *(verify drywall or plaster): 74x95
+
+
+
+403:
+
+Behind fridge: 35.5x97
+
+Left of heat pump: 47x95
+
+
+
+404:
+
+Small bedroom north wall: 38x108
+
+Living room north wall: 143x95
+
+
+
+405:
+
+Living room south wall: 146x95
+
+
+
+406:
+
+Behind fridge: 35.5x97
+
+South bedroom west wall: 123x95
+
+Master bedroom north wall: 109x108
+
+
+
+407:
+
+Behind fridge: 29.5x98
+
+Living room east wall: 86x94.5
+
+Master bedroom west wall: 87x95
+
+Master closet: 47x96
+
+
+
+408:
+
+Laundry: 34x90
+
+Behind fridge: 29.5x97
+
+Living room east wall: 123x95
+
+
+
+409:
+
+East entry wall: 78x95
+
+Living room west wall: 72x95
+
+Small bedroom west wall: 34x108
+
+
+
+410:
+
+Small bedroom west wall: 38x96
+
+Living room west wall: 78x94
+
+Master bedroom east wall: 75x95
+
+
+
+413:
+
+Small bedroom east wall: 39x96
+
+Living room east wall: 78x95
+
+Master bedroom west wall: 74.5x95
+
+
+
+414:
+
+Small bedroom west wall: 46x96
+
+Master bedroom east wall: 119x95
+
+Living room south wall: 115x96
+
+Living room west wall: 78x96
+
+
+
+415:
+
+Living room west wall (left of kitchen): 76x95
+
+Living room west wall (right of kitchen): 77x96
+
+
+
+416:
+
+Living room east wall: 156x95
+
+
+
+417:
+
+Living room east wall: 110x94
+
+
+
+418:
+
+Laundry+closet: 83x90
+
+Living room east wall: 137x95
+
+
+
+419:
+
+Master bedroom east wall *(verify drywall or plaster): 74x94
+
+Living room west wall: 136x94
+
+Behind fridge: 28x96
+
+Front closet+laundry: 91x90
+
+
+
+420:
+
+East entry wall: 183x94.5
+
+Living room east wall: 40x94
+
+
+
+421:
+
+Small bedroom: 128x108
+
+Behind fridge: 28.5x95
+
+Living room south wall: 128x94.5
+
+Master bedroom north wall+master closet: 154x95
+
+
+
+422:
+
+Small bedroom south wall: 128x96
+
+Behind fridge: 29x96
+
+Living room south wall: 130x95
+
+Master bedroom south wall+master closet: 153x95
+
+
+
+423:
+
+East bedroom east wall: 118x95
+
+Behind fridge: 33x96
+
+West bedroom south wall: 130x94.5
+
+East entry wall: 73x95
+
+
+
+424:
+
+Small bedroom west wall: 75x108
+
+Master bedroom east wall: 115x95
+
+Living room west wall *(verify drywall or plaster): 74x95
+
+
+
+425:
+
+Master bedroom east wall: 117x95
+
+Living room west wall *(verify drywall or plaster): 75x95
+
+Front closet: 45x90
+
+
+
+426:
+
+Small bedroom west wall *(verify drywall or plaster): 75x108
+
+Living room west wall *(verify drywall or plaster): 74x95
+
+Master bedroom east wall: 73x95
+
+
+
+427:
+
+Small bedroom west wall *(verify drywall or plaster): 76x108
+
+Living room west wall *(verify drywall or plaster): 95x104
+
+Master bedroom east wall: 110x95
+
+
+
+428:
+
+Small bedroom west wall *(verify drywall or plaster): 32x108
+
+Living room west wall *(verify drywall or plaster): 95x74
+
+Master bedroom east wall: 117x95
+
+Front closet: 44x96
+
+
+
+429:
+
+Small bedroom west wall: 50x91
+
+Living room west wall *(verify drywall or plaster): 75x96
+
+Master bedroom east wall: 141x94.5
+
+
+
+
+
+5th Floor:
+
+501:
+
+Front closet and laundry: 75x90.5
+
+Living room east wall: 74x96
+
+Master bedroom west wall: 74x96
+
+
+
+502:
+
+Front closet and laundry: 67x94
+
+Living room east wall: 74x95.5
+
+Living room west wall: 74x95
+
+
+
+503:
+
+West entry wall: 108x55
+
+Behind fridge: 35x96
+
+Left of heat pump: 48x95
+
+South bedroom south wall: 20x97
+
+
+
+504:
+
+Small bedroom north wall: 36x108
+
+Living room north wall: 132x96
+
+Master bedroom south wall: 158x95
+
+
+
+505:
+
+Master bedroom north wall: 146x95
+
+Living room south wall: 143x96
+
+
+
+506:
+
+Behind fridge: 35.5x96
+
+South bedroom west wall: 122x95
+
+Master bedroom north wall: 106x95
+
+
+
+507:
+
+Small bedroom west wall: 70x108
+
+Behind fridge: 29.5x98
+
+Living room east wall: 87x95
+
+Master bedroom+closet west wall: 141x96
+
+
+
+508:
+
+Laundry: 40x91
+
+Behind fridge: 29.5x97
+
+Living room east wall: 120x95
+
+
+
+509:
+
+Den east wall: 103x94
+
+Small bedroom west wall: 33x108
+
+Living room west wall: 74x96
+
+
+
+510:
+
+Small bedroom west wall: 38x95
+
+Master bedroom east wall: 74x95
+
+Living room west wall: 78x95
+
+
+
+513:
+
+Small bedroom east wall: 38x96
+
+Living room east wall: 77x95
+
+Master bedroom west wall: 75x95
+
+
+
+514:
+
+Small bedroom west wall: 45x95
+
+Master bedroom east wall: 74x95
+
+Living room south wall: 118x95
+
+Living room west wall: 77x95
+
+
+
+515:
+
+Living room west wall: 78x95
+
+Living room west wall to right of kitchen *(verify drywall or plaster): 78x95
+
+
+
+516:
+
+Small bedroom east wall: 75x95
+
+Living room east wall: 77x95
+
+Master bedroom west wall: 74x96
+
+
+
+517:
+
+Living room west wall: 77x95
+
+Living room east wall: 75x95
+
+
+
+518:
+
+Front closet+laundry: 87x94.5
+
+Small bedroom north wall: 90x90.5
+
+Living room east wall: 76x95
+
+Master bedroom west wall: 74x95.5
+
+
+
+519:
+
+Master bedroom east wall: 75x95
+
+Small bedroom north wall: 95x95
+
+Behind fridge: 29x95
+
+Living room west wall: 78x95
+
+Front closet+laundry: 92x94
+
+
+
+520:
+
+East entry wall: 183x96.5
+
+Master bedroom east wall: 81x95.5
+
+Master bedroom west wall: 75x108
+
+West bedroom south wall+closet: 88x94
+
+
+
+521:
+
+Small bedroom south wall: 128x108
+
+Behind fridge: 29.5x96
+
+Living room south wall: 130x95
+
+Master bedroom north wall+closet: 154x96.5
+
+
+
+522:
+
+Small bedroom north wall: 128x96
+
+Behind fridge: 29.5x97
+
+Living room north wall: 129x95.5
+
+Master bedroom south wall+closet: 154x95
+
+
+
+523:
+
+Front closet: 73x94.5
+
+Small bedroom east wall: 73x95
+
+Small bedroom west wall: 73x95
+
+Living room east wall: 73x95
+
+Living room west wall: 73x95
+
+West bedroom south wall: 96x97
+
+
+
+524:
+
+Small bedroom west wall: 76x108
+
+Living room west wall: 73x95
+
+Master bedroom east wall: 73x95
+
+
+
+525:
+
+Front closet: 43.5x95
+
+Master bedroom east wall: 74x95
+
+Living room west wall: 74x95
+
+Left of fridge: 30x108
+
+
+
+526:
+
+Small bedroom west wall: 76x108
+
+Living room west wall: 74x95
+
+Master bedroom east wall: 73x95.5
+
+
+
+527:
+
+Small bedroom west wall: 76x108
+
+Living room west wall: 74x95
+
+Master bedroom east wall: 74x95
+
+
+
+528:
+
+Front closet: 42x90
+
+Left of fridge: 32x108
+
+Living room west wall: 74x95.5
+
+Master bedroom east wall: 74x95
+
+
+
+529:
+
+Front closet+laundry: 76x90.5
+
+Living room west wall: 74x95.5
+
+Master bedroom east wall: 74x95
+
+
